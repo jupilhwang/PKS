@@ -4,4 +4,4 @@
 - Pivotal Function service(PFS)
 
 ## Pivotal Container Service(PKS)
-- [UAA-PKS-K8s](blob/uaa-pks-k8s/uaa_pks.md)
+- [UAA-PKS-K8s](../../blob/uaa-pks-k8s/uaa_pks.md)
